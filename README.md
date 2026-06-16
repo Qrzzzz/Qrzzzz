@@ -121,7 +121,16 @@ THEME       Neon black · cyan · acid green · purple
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Qrzzzz&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Qrzzzz&theme=matrix&no-frame=true&margin-w=12&margin-h=12&column=-1" alt="GitHub Profile Trophy" />
+</a>
+
+<br />
+
+<!--
+If the official endpoint is temporarily blank or slow, replace the src above with this mirror:
+https://gh-trophy.cdnsoft.net/?username=Qrzzzz&theme=matrix&no-frame=true&margin-w=12&margin-h=12&column=-1
+-->
 
 </div>
 
