@@ -6,7 +6,7 @@ IC student. I use GitHub for learning, experiments, and small practical tools.
 - C / C++ / Python / TypeScript
 - Automation, bots, offline utilities, and AI-assisted workflows
 
-## Contribution Snake
+## Contributions
 
 <p align="center">
   <picture>
