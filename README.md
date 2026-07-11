@@ -1,10 +1,7 @@
 # Hi, I'm Qrzzzz 👋
 
-🎓 Undergraduate student in Integrated Circuit Design and Integrated Systems.
-
 I use GitHub to document my learning, build small utilities, and experiment with automation and AI-assisted workflows.
 
-* 🔬 Focus: IC design, programming, and practical tooling
 * 💻 Languages: C / C++ / Python / TypeScript
 * ⚙️ Interests: automation, bots, offline utilities, and developer workflows
 
